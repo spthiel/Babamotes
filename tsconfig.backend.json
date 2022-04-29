@@ -1,0 +1,11 @@
+{
+	"extends": "./tsconfig.json",
+	"compilerOptions": {
+		"removeComments": false,
+	},
+	"include": [
+		"src/server/**/*",
+		"scripts/**/*",
+		"rxjs/**/*"
+	]
+}

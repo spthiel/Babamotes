@@ -1,2 +1,5 @@
 /node_modules/
 /.idea/
+/src/webpage/assets/css/
+/src/webpage/assets/js/
+/dist/

@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": false,
+		"strictNullChecks": true,
+		"noEmitOnError": true,
+		"outDir": "dist",
+		"sourceMap": true,
+		"target": "es6",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"allowSyntheticDefaultImports": true
+	}
+}
